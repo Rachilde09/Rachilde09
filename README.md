@@ -64,6 +64,7 @@
 
 ---
 
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Rachilde09&theme=gruvbox)
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=rachilde09&theme=gruvbox&no-frame=true&cache_seconds=3600)
+
 
 
