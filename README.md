@@ -64,5 +64,5 @@
 
 ---
 
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=rachilde09&theme=dracula&no-bg=true&margin-w=15)
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Rachilde09&theme=dracula&no-bg=true&margin-w=15)
 
