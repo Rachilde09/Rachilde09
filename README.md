@@ -59,4 +59,5 @@
 > *"L’apprentissage est un voyage, pas une destination."* 🚀
 
 ---
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachilde09&show_icons=true&theme=radical)
+---
