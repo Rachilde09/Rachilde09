@@ -1,7 +1,9 @@
-<h1 align="center">Salut, moi c'est Rachilde ðŸ‘‹</h1>
+---
+
+<h1 align="center">Salut, moi c'est Rachilde 👋</h1>
 
 <p align="center">
-  Analyste / Scientist Junior des DonnÃ©es â€¢ Assistante IT â€¢ Admin RÃ©seaux & TÃ©lÃ©com  
+  🧠 Analyste / Data Scientist Junior • 🖥️ Assistante IT • 🌐 Admin Réseaux & Télécom  
 </p>
 
 <p align="center">
@@ -12,46 +14,49 @@
 
 ---
 
-## ðŸ‘©â€ðŸ’» Ã€ propos de moi :
+## 👩‍💻 À propos de moi :
 
-- ðŸŽ“ Profil polyvalent : analyse de donnÃ©es, support IT, administration rÃ©seau
-- ðŸ“Š En ce moment, je dÃ©veloppe mes compÃ©tences en Collecte, PrÃ©paration, Visualisation des donnÃ©es, Assistance technique et Gestion de parc informatique.
-- ðŸ§  J'apprends **R**, **SQL**, **Data Science** et les outils de reporting
-- ðŸ¤ Ouverte Ã  des projets collaboratifs ou missions en freelance
-
----
-
-## ðŸš€ Projets GitHub en vedette :
-
-| Projet | Description | Lien |
-|--------|-------------|------|
-| ðŸ“ **Analyseur de CV** | Extraction automatique d'infos depuis un CV PDF | [Voir](https://github.com/rachilde09/Analyseur_cv) |
-| ðŸ¤– **Chatbot** | Chatbot de base en Python | [Voir](https://github.com/rachilde09/Notre_chatbot) |
-| ðŸŽ¤ **Reconnaissance Vocale** | DÃ©tection et transcription vocale | [Voir](https://github.com/rachilde09/Reconnaissance_vocale) |
+* 🎓 Profil polyvalent : analyse de données, support IT, administration réseau
+* 📚 En ce moment, je développe mes compétences en collecte, préparation, visualisation de données, assistance technique et gestion de parc informatique
+* 🧠 J'apprends **R**, **SQL**, **Data Science** et les outils de reporting
+* 🤝 Ouverte à des projets collaboratifs ou missions en freelance
 
 ---
 
-## ðŸ§° CompÃ©tences techniques :
+## 🚀 Projets GitHub en vedette :
 
-- **Langages** : Python, Bash, HTML/CSS
-- **Data** : Power BI, Pandas, Jupyter
-- **SystÃ¨mes & RÃ©seaux** : Linux, configuration rÃ©seau de base
-- **Outils** : Git, GitHub, VSCode
-
----
-
-## ðŸŒ Mon portfolio :
-
-ðŸ”— Visitez mon site :  
-âž¡ï¸ [https://rachilde09.github.io](https://rachilde09.github.io)
+| 🚧 Projet                    | 📝 Description                                  | 🔗 Lien                                                               |
+| ---------------------------- | ----------------------------------------------- | --------------------------------------------------------------------- |
+| 📄 **Analyseur de CV**       | Extraction automatique d'infos depuis un CV PDF | [Voir le projet](https://github.com/rachilde09/Analyseur_cv)          |
+| 🤖 **Chatbot**               | Chatbot de base en Python                       | [Voir le projet](https://github.com/rachilde09/Notre_chatbot)         |
+| 🎤 **Reconnaissance Vocale** | Détection et transcription vocale               | [Voir le projet](https://github.com/rachilde09/Reconnaissance_vocale) |
 
 ---
 
-## ðŸ“« Me contacter :
+## 🧰 Compétences techniques :
 
-- ðŸ“§ Email : rachilde09@gmail.com  
-- ðŸ’¬ Je suis disponible pour Ã©changer sur tout projet liÃ© Ã  la **data**, **IT**, ou **formation technique**
+* **Langages** : Python, Bash, HTML/CSS
+* **Data** : Power BI, Pandas, Jupyter
+* **Systèmes & Réseaux** : Linux, configuration réseau de base
+* **Outils** : Git, GitHub, VSCode
 
 ---
 
-> *"Lâ€™apprentissage est un voyage, pas une destination."* ðŸš€
+## 🌐 Mon portfolio :
+
+🔗 Visitez mon site :
+➡️ [https://rachilde09.github.io](https://rachilde09.github.io)
+
+---
+
+## 📬 Me contacter :
+
+* ✉️ Email : [rachilde09@gmail.com](mailto:rachilde09@gmail.com)
+* 💬 Je suis disponible pour échanger sur tout projet lié à la **data**, **IT**, ou **formation technique**
+
+---
+
+> *"L’apprentissage est un voyage, pas une destination."* 🚀
+
+---
+
