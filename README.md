@@ -63,4 +63,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachilde09&show_icons=true&theme=radical)
 
 ---
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Rachilde09&theme=gruvbox)
+
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=rachilde09&theme=dracula&no-bg=true&margin-w=15)
+
